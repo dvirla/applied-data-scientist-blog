@@ -15,7 +15,7 @@ Anything explained in this post can be found in the github repository: [dvirla/B
 
 <div style="text-align:center;">
   <img src="../assets/img/textual-data-snippet.jpeg" alt="data snippet" width="800"/>
-  <p style="color:grey;">A Snippet of The Dataset</a></p>
+  <p style="color:grey;">A Snippet of The Dataset</p>
 </div>
 
 
